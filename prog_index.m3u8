@@ -2,4 +2,4 @@
 #EXT-X-MEDIA-SEQUENCE:2
 #EXT-X-TARGETDURATION:3
 #EXTINF:3.04,
-https://github.com/aah867/hlstest/blob/master/0-id0-0000000000007.ts
+https://raw.githubusercontent.com/aah867/hlstest/master/0-id0-0000000000007.ts
