@@ -2,6 +2,7 @@
 #EXT-X-VERSION: 4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/aah867/hlstest/master/0-id0-subtitle_index.m3u8",LANGUAGE="en"
+https://raw.githubusercontent.com/aah867/hlstest/master/0-id0-subtitle_index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1032000,RESOLUTION=380x256,FRAME-RATE=25,CODECS="mp4a.40.2,avc1.4d0033"
 https://raw.githubusercontent.com/aah867/hlstest/master/0-id0-prog_index.m3u8
 
